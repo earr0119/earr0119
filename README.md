@@ -1,0 +1,5 @@
+- 👋 Hi, I’m  Elis A. Ruiz @earr0119
+- 👀 I’m interested in new programs lenguage
+- 🌱 I’m currently learning Java, SQL and I am Making my own webside
+- 💞️ I’m looking to collaborate on projects to get more experience working on
+- 📫 How to reach me Elisruiz.ar@outlook.com
